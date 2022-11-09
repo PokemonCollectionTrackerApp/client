@@ -1,0 +1,21 @@
+.NavBar {
+    background-color: sandybrown;
+    float: left;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.NavBar div {
+    margin: 20px 10px;
+}
+
+.navButton {
+    font-style: normal;
+}
+
+.navButton a {
+    text-decoration: none;
+    color:saddlebrown;
+}
