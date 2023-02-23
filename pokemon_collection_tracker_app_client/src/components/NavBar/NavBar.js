@@ -3,7 +3,7 @@ import './NavBar.css';
 
 function NavBar() {
   return (
-    <div className="NavBar">
+    <div className="navBar">
         <div className="logoImg"><a href="/"><img src="defAnImage" /></a></div>
         <div className="navButton"><a href="/">Home</a></div>
         <div className="navButton"><a href="/collection">My Collection</a></div>
