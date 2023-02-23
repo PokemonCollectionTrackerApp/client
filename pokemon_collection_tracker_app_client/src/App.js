@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import NavBar from './components/NavBar/NavBar';
+import Card from './components/Card/Card';
 
 function App() {
   return (
@@ -20,6 +21,10 @@ function App() {
           Learn React
         </a>
       </header>
+      <Card />
+      <Card />
+      <Card />
+      <Card />
     </div>
   );
 }
