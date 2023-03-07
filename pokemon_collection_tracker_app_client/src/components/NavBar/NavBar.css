@@ -1,4 +1,4 @@
-.NavBar {
+.navBar {
     background-color: sandybrown;
     float: left;
     height: 100vh;
@@ -7,7 +7,7 @@
     align-items: center;
 }
 
-.NavBar div {
+.navBar div {
     margin: 20px 10px;
 }
 
